@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Bastian Cerda",
+    "charge": "Gerente",
+    "salary": "1800000",
+    "address": "Anita Fresno 327",
+    "mail": "bast.cerda@gmail.com",
+    "cellphone": "933284978"
+  },
+  {
+    "id": 2,
+    "name": "Luisa López",
+    "charge": "Asistente",
+    "salary": "1200000",
+    "address": "Calle Principal 123",
+    "mail": "luisa.lopez@gmail.com",
+    "cellphone": "911234567"
+  },
+  {
+    "id": 3,
+    "name": "Eduardo Pérez",
+    "charge": "Analista",
+    "salary": "1500000",
+    "address": "Avenida Central 456",
+    "mail": "eduardo.perez@gmail.com",
+    "cellphone": "922345678"
+  },
+  {
+    "id": 4,
+    "name": "Ana Rodríguez",
+    "charge": "Diseñadora",
+    "salary": "1400000",
+    "address": "Calle Secundaria 789",
+    "mail": "ana.rodriguez@gmail.com",
+    "cellphone": "933456789"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Martínez",
+    "charge": "Programador",
+    "salary": "1600000",
+    "address": "Avenida de la Paz 101",
+    "mail": "carlos.martinez@gmail.com",
+    "cellphone": "944567890"
+  },
+  {
+    "id": 6,
+    "name": "María Gómez",
+    "charge": "Contadora",
+    "salary": "1700000",
+    "address": "Calle de la Esperanza 222",
+    "mail": "maria.gomez@gmail.com",
+    "cellphone": "955678901"
+  },
+  {
+    "id": 7,
+    "name": "Javier Sánchez",
+    "charge": "Ingeniero",
+    "salary": "1900000",
+    "address": "Avenida Principal 333",
+    "mail": "javier.sanchez@gmail.com",
+    "cellphone": "966789012"
+  },
+  {
+    "id": 8,
+    "name": "Laura Fernández",
+    "charge": "Analista de Marketing",
+    "salary": "1300000",
+    "address": "Calle de la Luna 444",
+    "mail": "laura.fernandez@gmail.com",
+    "cellphone": "977890123"
+  },
+  {
+    "id": 9,
+    "name": "Sergio Ramírez",
+    "charge": "Desarrollador Web",
+    "salary": "1700000",
+    "address": "Avenida del Sol 555",
+    "mail": "sergio.ramirez@gmail.com",
+    "cellphone": "988901234"
+  },
+  {
+    "id": 10,
+    "name": "Patricia Castro",
+    "charge": "Recursos Humanos",
+    "salary": "1500000",
+    "address": "Calle de las Estrellas 666",
+    "mail": "patricia.castro@gmail.com",
+    "cellphone": "999012345"
+  },
+  {
+    "id": 11,
+    "name": "Daniel Herrera",
+    "charge": "Diseñador Gráfico",
+    "salary": "1600000",
+    "address": "Avenida de los Sueños 777",
+    "mail": "daniel.herrera@gmail.com",
+    "cellphone": "910123456"
+  },
+  {
+    "id": 12,
+    "name": "Isabel Díaz",
+    "charge": "Analista de Sistemas",
+    "salary": "1800000",
+    "address": "Calle del Bosque 888",
+    "mail": "isabel.diaz@gmail.com",
+    "cellphone": "921234567"
+  },
+  {
+    "id": 13,
+    "name": "José Torres",
+    "charge": "Consultor de Negocios",
+    "salary": "1900000",
+    "address": "Avenida de las Flores 999",
+    "mail": "jose.torres@gmail.com",
+    "cellphone": "932345678"
+  },
+  {
+    "id": 14,
+    "name": "Natalia Jiménez",
+    "charge": "Diseñadora de Moda",
+    "salary": "1400000",
+    "address": "Calle de la Playa 111",
+    "mail": "natalia.jimenez@gmail.com",
+    "cellphone": "943456789"
+  },
+  {
+    "id": 15,
+    "name": "Andrés Soto",
+    "charge": "Analista Financiero",
+    "salary": "1700000",
+    "address": "Avenida del Mar 222",
+    "mail": "andres.soto@gmail.com",
+    "cellphone": "954567890"
+  },
+  {
+    "id": 16,
+    "name": "Lorena Mendoza",
+    "charge": "Redactora",
+    "salary": "1300000",
+    "address": "Calle de la Montaña 333",
+    "mail": "lorena.mendoza@gmail.com",
+    "cellphone": "965678901"
+  },
+  {
+    "id": 17,
+    "name": "Ricardo Ruiz",
+    "charge": "Ingeniero Civil",
+    "salary": "1900000",
+    "address": "Avenida de la Ciudad 444",
+    "mail": "ricardo.ruiz@gmail.com",
+    "cellphone": "976789012"
+  },
+  {
+    "id": 18,
+    "name": "Marta Medina",
+    "charge": "Médica",
+    "salary": "1700000",
+    "address": "Calle del Hospital 555",
+    "mail": "marta.medina@gmail.com",
+    "cellphone": "987890123"
+  },
+  {
+    "id": 19,
+    "name": "Hugo Vargas",
+    "charge": "Arquitecto",
+    "salary": "1500000",
+    "address": "Avenida de la Construcción 666",
+    "mail": "hugo.vargas@gmail.com",
+    "cellphone": "998901234"
+  },
+  {
+    "id": 20,
+    "name": "Lucía Ortega",
+    "charge": "Periodista",
+    "salary": "1600000",
+    "address": "Calle de la Prensa 777",
+    "mail": "lucia.ortega@gmail.com",
+    "cellphone": "909012345"
+  },
+  {
+    "id": 21,
+    "name": "Diego Castro",
+    "charge": "Ingeniero Eléctrico",
+    "salary": "1800000",
+    "address": "Avenida de la Energía 888",
+    "mail": "diego.castro@gmail.com",
+    "cellphone": "920123456"
+  },
+  {
+    "id": 22,
+    "name": "Claudia Santos",
+    "charge": "Profesora",
+    "salary": "1900000",
+    "address": "Calle de la Educación 999",
+    "mail": "claudia.santos@gmail.com",
+    "cellphone": "931234567"
+  },
+  {
+    "id": 23,
+    "name": "Gustavo Pérez",
+    "charge": "Ingeniero Mecánico",
+    "salary": "1400000",
+    "address": "Avenida Industrial 111",
+    "mail": "gustavo.perez@gmail.com",
+    "cellphone": "942345678"
+  },
+  {
+    "id": 24,
+    "name": "Silvia Ramírez",
+    "charge": "Dentista",
+    "salary": "1700000",
+    "address": "Calle de la Salud 222",
+    "mail": "silvia.ramirez@gmail.com",
+    "cellphone": "953456789"
+  },
+  {
+    "id": 25,
+    "name": "Ernesto Morales",
+    "charge": "Psicólogo",
+    "salary": "1600000",
+    "address": "Avenida de la Psicología 333",
+    "mail": "ernesto.morales@gmail.com",
+    "cellphone": "964567890"
+  },
+  {
+    "id": 26,
+    "name": "Alicia González",
+    "charge": "Farmacéutica",
+    "salary": "1500000",
+    "address": "Calle de la Farmacia 444",
+    "mail": "alicia.gonzalez@gmail.com",
+    "cellphone": "975678901"
+  },
+  {
+    "id": 27,
+    "name": "Roberto Martínez",
+    "charge": "Chef",
+    "salary": "1800000",
+    "address": "Avenida Gastronómica 555",
+    "mail": "roberto.martinez@gmail.com",
+    "cellphone": "986789012"
+  },
+  {
+    "id": 28,
+    "name": "Carmen Jiménez",
+    "charge": "Enfermera",
+    "salary": "1900000",
+    "address": "Calle de la Enfermería 666",
+    "mail": "carmen.jimenez@gmail.com",
+    "cellphone": "997890123"
+  },
+  {
+    "id": 29,
+    "name": "Fernando Torres",
+    "charge": "Ingeniero de Software",
+    "salary": "1700000",
+    "address": "Avenida del Software 777",
+    "mail": "fernando.torres@gmail.com",
+    "cellphone": "908901234"
+  },
+  {
+    "id": 30,
+    "name": "Rosa Sánchez",
+    "charge": "Diseñadora de Interiores",
+    "salary": "1600000",
+    "address": "Calle del Diseño 888",
+    "mail": "rosa.sanchez@gmail.com",
+    "cellphone": "919012345"
+  }
+]
