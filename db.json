@@ -1,5 +1,6 @@
 [
   {
+  {
     "id": 1,
     "name": "Bastian Cerda",
     "charge": "Gerente",
@@ -268,5 +269,6 @@
     "address": "Calle del Diseño 888",
     "mail": "rosa.sanchez@gmail.com",
     "cellphone": "919012345"
+  }
   }
 ]
